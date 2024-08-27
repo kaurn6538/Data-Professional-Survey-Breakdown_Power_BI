@@ -36,12 +36,12 @@ Displays the average satisfaction level with salary among the respondents.
 Offers insight into how well compensation aligns with expectations in the data profession.
 
 ## Data Source
-The data used to create this dashboard is stored in the xlsx file, which is included in this repository. This Excel file contains all the survey responses that were analyzed and visualized in the Power BI dashboard.
+The data used to create this dashboard is stored in the Power BI - Final Project.xlsx file, which is included in this repository. This Excel file contains all the survey responses that were analyzed and visualized in the Power BI dashboard.
 
 ## Usage
 To view or modify the dashboard:
 
-Download the xlsx file from this repository.
+Download the Power BI - Final Project.xlsx file from this repository.
 Open the Power BI dashboard file associated with this project.
 Refresh the data source to ensure the dashboard reflects the latest data.
 Explore the dashboard to gain insights from the survey data.
