@@ -41,10 +41,10 @@ The data used to create this dashboard is stored in the Power BI - Final Project
 ## Usage
 To view or modify the dashboard:
 
-Download the Power BI - Final Project.xlsx file from this repository.
-Open the Power BI dashboard file associated with this project.
-Refresh the data source to ensure the dashboard reflects the latest data.
-Explore the dashboard to gain insights from the survey data.
+*    Download the Power BI - Final Project.xlsx file from this repository.
+*    Open the Power BI dashboard file associated with this project.
+*    Refresh the data source to ensure the dashboard reflects the latest data.
+*    Explore the dashboard to gain insights from the survey data.
 
 ## Contributing
 Contributions to improve or extend the dashboard are welcome. If you have any suggestions or want to add new features, feel free to open an issue or submit a pull request.
